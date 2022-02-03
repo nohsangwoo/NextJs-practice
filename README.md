@@ -89,3 +89,5 @@ pages/_app.tsx
 - router로 parameter를 무한으로 받을 수 있다
 - 파일명을 [...params].tsx로 지정하면
   router.query.params는 배열로 parameters를 받아온다.
+
+## 404 pages
