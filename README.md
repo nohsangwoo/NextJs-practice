@@ -70,3 +70,7 @@ pages/_app.tsx
 - 위 경로에서 정해진 nextJs의 규칙대로 사용하면된다.
 
 ## server side rendering - getServerSideProps
+
+## Dynamic Routes
+
+- 파일명으로 전달받을 parameter name을 지정할수 있다.

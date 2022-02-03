@@ -5,7 +5,6 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <Layout>
       <Component {...pageProps} />
-      <span>hello</span>
       <style jsx global>{`
         a {
           color: white;
