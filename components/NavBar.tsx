@@ -5,7 +5,6 @@ import { useRouter } from 'next/router'
 interface Props {}
 export default function NavBar(props: Props) {
   const router = useRouter()
-  console.log(router)
   return (
     <nav>
       <img src="/vercel.svg" />

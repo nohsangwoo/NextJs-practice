@@ -80,5 +80,12 @@ pages/_app.tsx
 - NextJs에서 제공하는 router hook을 사용하여
   react-router-dom의 useNavigation과 비슷한 기능을 제공한다.
 
-## query masking 
+## query masking
+
 - router.push에서 두번째 인자는 경로를 masking하여 불필요한 정보노출을 막을수 있다.
+
+## Catch call
+
+- router로 parameter를 무한으로 받을 수 있다
+- 파일명을 [...params].tsx로 지정하면
+  router.query.params는 배열로 parameters를 받아온다.
