@@ -68,3 +68,5 @@ pages/_app.tsx
 ```
 
 - 위 경로에서 정해진 nextJs의 규칙대로 사용하면된다.
+
+## server side rendering - getServerSideProps
