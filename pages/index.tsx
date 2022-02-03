@@ -17,7 +17,6 @@ export default function Home({ results }: Props) {
         query: {
           title,
         },
-        
       },
       `/movies/${id}`,
     )
