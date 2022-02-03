@@ -74,3 +74,8 @@ pages/_app.tsx
 ## Dynamic Routes
 
 - 파일명으로 전달받을 parameter name을 지정할수 있다.
+
+## router.push
+
+- NextJs에서 제공하는 router hook을 사용하여
+  react-router-dom의 useNavigation과 비슷한 기능을 제공한다.
